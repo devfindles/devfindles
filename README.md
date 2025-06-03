@@ -1,7 +1,7 @@
 Hey! I'm @devfindles.
 
 A newbie in the programming world, I'm learning:
-- Python, HTML, CSS, JavaScript
+- Swift, SwiftUI and Javascript
 
 I'll update this when I've learned one.
 <!---
